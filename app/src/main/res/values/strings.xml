@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chat con Kotlin</string>
+
+    <string name="item_perfil"></string>
+    <string name="item_usuarios"></string>
+    <string name="item_chats"></string>
+
+    <string name="tv_Titulo"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
